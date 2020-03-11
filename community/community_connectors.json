@@ -179,6 +179,15 @@
         "source_code": "https://developer.factset.com/api/pa-batch-api#documentation"
     },
     {
+        "name": "FileMaker 2 Tableau",
+        "url": "https://github.com/1-more-thing/fm2tableau/releases/latest",
+        "author": "1-more-thing",
+        "github_username": "1-more-thing",
+        "tags": ["v_2.3"],
+        "description": "Load multiple FileMaker tables at once using the dataAPI",
+        "source_code": "https://github.com/1-more-thing/fm2tableau"
+    },
+    {
         "name": "Fitbit",
         "url": "http://data.theinformationlab.co.uk/fitbit.html",
         "author": "Craig Bloodworth",
@@ -964,5 +973,6 @@
     "tags": ["v_1.0"],
     "description": "Get the latest exchange dolar rates available from the Brazilian central bank API/ Obtenha as ultimas cotações diárias do dolar disponíveis no site do Banco Central",
     "source_code": "https://github.com/JuracyAmerico/Dolar-Conector-de-dados-da-Web"
-}
+},
+    
 ]
